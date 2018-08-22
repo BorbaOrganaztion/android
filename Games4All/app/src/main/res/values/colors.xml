@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFF</color>
+    <color name="colorPrimaryDark">#e78200</color>
+    <color name="colorAccent">#e0dfe1</color>
+    <color name="textColorPrimary">#E78200</color>
+    <color name="ColorSecondary">#49C6E5</color>
+    <color name="ColorTabsText">#5b5b5b</color>
+    <color name="ColorAccInfoBg">#fafafa</color>
+    <color name="ColorTextPostGame">#686868</color>
+    <color name="ColorLinearLayout">#e4e2e2</color>
+
+    <!--<color name="colorPrimary">#FFFF</color>-->
+    <!--<color name="colorPrimaryDark">#E78200</color>-->
+    <!--<color name="colorAccent">#8A25B1</color>-->
+    <!--<color name="textColorPrimary">#E78200</color>-->
+    <!--<color name="ColorSecondary">#49C6E5</color>-->
+    <!--<color name="ColorTabsText">#5b5b5b</color>-->
+    <!--<color name="ColorAccInfoBg">#fafafa</color>-->
+    <!--<color name="ColorTextPostGame">#686868</color>-->
+</resources>

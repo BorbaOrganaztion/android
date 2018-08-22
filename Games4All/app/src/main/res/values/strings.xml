@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Games4All</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_txt">Open</string>
+    <string name="close_txt">Close</string>
+    <string name="imageText">game image</string>
+    <string name="facebook_app_id">158591784832063</string>
+    <string name="fb_login_protocol_scheme">fb158591784832063</string>
+    <string name="profPic">profile Image</string>
+    <string-array name="gameType">
+        <item>RPG</item>
+        <item>Sports</item>
+        <item>Platform</item>
+        <item>Survive</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="gameRegionRestriction">
+        <item>North America</item>
+        <item>South America</item>
+        <item>Central America</item>
+        <item>Europe</item>
+        <item>Asia</item>
+        <item>Midle East</item>
+        <item>No restrictions</item>
+    </string-array>
+    <string-array name="gameConsole">
+        <item>PC</item>
+        <item>PS3</item>
+        <item>PS4</item>
+        <item>XBOX 360</item>
+        <item>XBOX One</item>
+        <item>Switch</item>
+        <item>Wii</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="gameCondition">
+        <item>New</item>
+        <item>Like new</item>
+        <item>Good</item>
+        <item>Salvage One</item>
+    </string-array>
+    <string-array name="transactionStatus">
+        <item>Started</item>
+        <item>Payed</item>
+        <item>Finished</item>
+    </string-array>
+    <string-array name="resultSpinner"></string-array>
+    <string-array name="consoleType">
+        <item>PC</item>
+        <item>PS3</item>
+        <item>PS4</item>
+        <item>Xbox</item>
+        <item>Wii</item>
+    </string-array>
+    <string name="title_activity_user_profile">UserProfile</string>
+
+    <string name="phoneNumber">PHONE: </string>
+    <string name="email"> EMAIL: </string>
+    <string name="country_province">COUNTRY/PROVINCE: </string>
+    <string name="city">CITY: </string>
+    <string name="moreDetails">FURTHER DETAILS</string>
+    <string name="price_of_gme">PRICE</string>
+    <string name="game_name">GAME NAME</string>
+    <string name="photoLink_txt">Link of your image</string>
+    <string name="postGameBtn">POST GAME</string>
+    <string name="mygammes_text">MY GAMES</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication error, Please enter a valid email and password or sign up</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_login_email">Continue with e-mail</string>
+    <string name="btn_link_to_login">Already registered. Login !!</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="btn_sign_up">Sign Up !!</string>
+    <string name="err_msg_email">Enter a valid email.</string>
+    <string name="err_msg_required">Required !!</string>
+    <string name="err_msg_password">Enter a valid password with min 6 characters.</string>
+    <string name="btn_link_to_signup">Don\'t have an account, Signup !!</string>
+
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Douglas College Cinemas</string>
+    <string-array name="movieDesc">
+        <item>Based on the New York Times bestseller, WONDER tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters fifth grade, attending a mainstream elementary school for the first time.\n</item>
+        <item>The mischievous Minions hope that Gru will return to a life of crime after the new boss of the Anti-Villain League fires him. Instead, Gru decides to remain retired and travel to Freedonia to meet his long-lost twin brother for the first time. The reunited siblings soon find themselves in an uneasy alliance to take down the elusive Balthazar Bratt, a former 1980s child star who seeks revenge against the world.\n</item>
+        <item>Fueled by his restored faith in humanity and inspired by Superman\'s selfless act, Bruce Wayne enlists newfound ally Diana Prince to face an even greater threat. Together, Batman and Wonder Woman work quickly to recruit a team to stand against this newly awakened enemy. Despite the formation of an unprecedented league of heroes -- Batman, Wonder Woman, Aquaman, Cyborg and the Flash -- it may be too late to save the planet from an assault of catastrophic proportions.\n</item>
+        <item>After an unprecedented series of natural disasters threatened the planet, the world\'s leaders came together to create an intricate network of satellites to control the global climate and keep everyone safe. But now, something has gone wrong: the system built to protect Earth is attacking it, and it becomes a race against the clock to uncover the real threat before a worldwide geostorm wipes out everything and everyone along with it.\n</item>
+        <item>Officer K (Ryan Gosling), a new blade runner for the Los Angeles Police Department, unearths a long-buried secret that has the potential to plunge what\'s left of society into chaos. His discovery leads him on a quest to find Rick Deckard (Harrison Ford), a former blade runner who\'s been missing for 30 years.\n</item>
+    </string-array>
+    <string-array name="days">
+        <item>Dec, 01</item>
+        <item>Dec, 02</item>
+        <item>Dec, 03</item>
+        <item>Dec, 04</item>
+        <item>Dec, 05</item>
+    </string-array>
+    <string-array name="hours">
+        <item>10:00 am</item>
+        <item>12:00 am</item>
+        <item>2:00 pm</item>
+        <item>4:00 pm</item>
+        <item>6:00 pm</item>
+        <item>8:00 pm</item>
+    </string-array>
+    <string-array name="movieYoutube">
+        <item>ngiK1gQKgK8</item>
+        <item>euz-KBBfAAo</item>
+        <item>r9-DM9uBtVI</item>
+        <item>Qz8cjvKJLuw</item>
+        <item>gCcx85zbxz4</item>
+    </string-array>
+    <string-array name="movieName">
+        <item>Wonder</item>
+        <item>Despicable Me 3</item>
+        <item>Justice League</item>
+        <item>Geostorm</item>
+        <item>Blade Runner 2049</item>
+    </string-array>
+    <string name="title_activity_auto_populate_db">AutoPopulateDB</string>
+</resources>

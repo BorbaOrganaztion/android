@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "243359412805",
+    "firebase_url": "https://games4all-dd6c1.firebaseio.com",
+    "project_id": "games4all-dd6c1",
+    "storage_bucket": "games4all-dd6c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243359412805:android:4fb8b0bcee502a44",
+        "android_client_info": {
+          "package_name": "com.example.games4all"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243359412805-mlbonj6ft27sjqhe7go7um3d9et56qku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.games4all",
+            "certificate_hash": "b4cd9c69c6ccc2a09e4219ab375e972171da488e"
+          }
+        },
+        {
+          "client_id": "243359412805-mcmusqhl7inhrfconu6jdvuelg62f1ji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.games4all",
+            "certificate_hash": "93aca6faeb1151e9ac43756548f1ccc08394c5a7"
+          }
+        },
+        {
+          "client_id": "243359412805-v6jhunf5eamajhjbkvio4a1ov5fggoeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.games4all",
+            "certificate_hash": "e665edd96692fdaa1184b77086c6782d4ff89024"
+          }
+        },
+        {
+          "client_id": "243359412805-hu5jk1eu38ljo3i4rr76t19h983udmjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5R0apcjkKsX7AMWDrCAoC9B8kq5kn4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243359412805-hu5jk1eu38ljo3i4rr76t19h983udmjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

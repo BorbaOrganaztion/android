@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    tools:context="com.example.pcborba.movieticketreservation_douglascollege.AutoloadScheduleAndDB">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:textAlignment="center"
+            android:text="Stephen please just run this process one time, otherwise data will be overriden.\n The process can take sometime, please wait until a message appear in your screen."
+            android:textColor="@android:color/white"
+            android:textSize="22sp"
+            android:padding="16dp"
+            />
+        <Button
+            android:id="@+id/btnBuy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="6dp"
+            android:background="@color/colorButton"
+            android:text="Autoschedule and load db"
+            android:textColor="@android:color/white"
+            android:onClick="insertData"
+            android:hint="Press this button to run autoschedule and populate the app database"/>
+
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>
